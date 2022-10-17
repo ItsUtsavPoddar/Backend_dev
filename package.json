@@ -1,0 +1,23 @@
+{
+  "name": "backend_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsUtsavPoddar/Backend_dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsUtsavPoddar/Backend_dev/issues"
+  },
+  "homepage": "https://github.com/ItsUtsavPoddar/Backend_dev#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
